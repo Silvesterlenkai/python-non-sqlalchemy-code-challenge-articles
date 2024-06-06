@@ -42,6 +42,8 @@ extract it into a shared helper method.
 **Before you submit!** Save and run your code to verify that it works as you
 expect. If you have any methods that are not working yet, feel free to leave
 comments describing your progress.
+### LINK
+https://youtu.be/_5wEAigkFw4?si=oBeFjzovV0ElAzfp
 
 ## Core Deliverables
 
